@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @real-lake050317
+- 👋 Hi, I’m @real-lake050317, Jinho Ki
+- 🏠 I live in 횡성, South Korea.
+- 🎓 I am 1st grader in KMLA (Korean Minjok Leadership Academy)
 - 👀 I’m interested in Embeded Programming, Algorithms, Hacking, etc.
 - 🌱 I’m currently learning C++, Kali, Lua, etc. 
 - 💪 I can use C++, Python, H/C/J, React.js, Kali, Ubuntu and much more
