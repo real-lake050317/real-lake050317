@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @real-lake050317, Jinho Ki
+- 👋 Hi, I’m @real-lake050317, Jinho Kim
 - 🏠 I live in 횡성, South Korea.
 - 🎓 I am 1st grader in KMLA (Korean Minjok Leadership Academy)
 - 👀 I’m interested in Embeded Programming, Algorithms, Hacking, etc.
