@@ -4,5 +4,5 @@
 - 👀 I’m interested in Cyber Security, Hacking, Embeded Programming, Algorithms, etc.
 - 🌱 I’m currently learning Hacking theory, x86 ASM, C/C++, Kali, Lua, Rust etc. 
 - 🖥 I'm currently working on School Community Web, writing paper about server architecture, and Special Wheelchair.
-- 💪 I can use C++, Python, H/C/J, React.js, Kali, Ubuntu and much more
+- 💪 I can use C++, Python, H/C/J, React.js, Kali and much more
 - 📫 How to reach me real.lake050317@gmail.com or 82+)10-9966-6503
