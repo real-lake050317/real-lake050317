@@ -7,4 +7,4 @@
 - 💪 I can use C++, Python, H/C/J, React.js, Kali and much more
 - 📫 How to reach me real.lake050317@gmail.com or 82+)10-9966-6503
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=real-lake050317&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=real-lake050317&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)=
