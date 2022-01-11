@@ -1,5 +1,5 @@
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" align="center" style="width: 100%; height:100% " />
+
 
 - 👋 Hi, I’m @real-lake050317, Jinho Kim
 - 🏠 I live in 횡성, South Korea.
@@ -39,3 +39,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=real-lake050317&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-lake050317&show_icons=true&theme=radical)
+
+<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" align="center" style="width: 100%; height:100% " />
