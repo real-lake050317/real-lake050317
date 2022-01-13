@@ -40,4 +40,4 @@
 
 ![Jinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-lake050317&show_icons=true&theme=radical)
 
-<img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" align="center" style="width: 100%; height:100% " />
+<!-- <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" align="center" style="width: 100%; height:100% " /> -->
