@@ -1,5 +1,5 @@
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
-
+<!-- <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " /> -->
+<img src="./code.gif " align="center" style="width: 100%; height:100% " />
 
 - 👋 Hi, I’m @real-lake050317, Jinho Kim
 - 🏠 I live in 횡성, South Korea.
