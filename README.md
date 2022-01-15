@@ -36,7 +36,7 @@
 
 ## Github Stats 📉
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=real-lake050317&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=real-lake050317&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-lake050317&show_icons=true&theme=radical)
 
