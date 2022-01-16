@@ -14,9 +14,7 @@
     <img src="https://github.com/reaL-lake050317/reaL-lake050317/blob/master/code.gif" width="40px" />
 </a>
  -->
- 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinojoa317)](https://solved.ac/jinojoa317)
+
 
 ## Connect with me 🚀
 
@@ -38,10 +36,12 @@
 <br/>  
 
 
-## Github Stats 📉
+## Stats 📈
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=real-lake050317&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Jinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=real-lake050317&show_icons=true&theme=radical)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinojoa317)](https://solved.ac/jinojoa317)
 <!-- <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" align="center" style="width: 100%; height:100% " /> -->
