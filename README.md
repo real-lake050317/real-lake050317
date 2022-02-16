@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @real-lake050317, Jinho Kim
 - 🏠 I live in 횡성, South Korea.
-- 🎓 I am 1st grader in KMLA (Korean Minjok Leadership Academy)
+- 🎓 I am 2nd grader in KMLA (Korean Minjok Leadership Academy)
 - 👀 I’m interested in Cyber Security, Hacking, Embeded Programming, Algorithms, etc.
 - 🌱 I’m currently learning Hacking theory, x86 ASM, C/C++, Kali, Lua, Rust etc. 
 - 🖥 I'm currently working on School Community Web, writing paper about server architecture, and Special Wheelchair.
