@@ -45,3 +45,16 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinojoa317)](https://solved.ac/jinojoa317)
 <!-- <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/200.gif" align="center" style="width: 100%; height:100% " /> -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{real-lake050317}/count.svg" /></p> 
+<br></div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=real-lake050317&theme=react-dark&hide_border=true&area=true)
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
+
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=real-lake050317&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="real-lake050317 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-lake050317&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
