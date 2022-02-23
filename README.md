@@ -51,7 +51,7 @@
 <br></div>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=real-lake050317&theme=react-dark&hide_border=true&area=true)
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NazarovAsadbek&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=reaL-lake050317&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Nazarov Asadbek" /></div>
 
 <!-- ./STAT -->
 <div align="center">  
